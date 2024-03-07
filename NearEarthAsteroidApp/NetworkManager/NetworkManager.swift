@@ -6,6 +6,7 @@
 //
 
 import Alamofire
+
 import SwiftyJSON
 
 public struct NetworkManagerReponseStruct {
