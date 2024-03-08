@@ -1,6 +1,6 @@
 # NearEarthAsteroidApp
 
-## An App which shows Near-Earth Asteroids and their distance based on the date range provided.
+## An App which shows Near-Earth Asteroids count and their distance based on the date range provided.
 
 ## Frameworks
 1. Charts
