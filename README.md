@@ -9,6 +9,7 @@
 
 <img src="https://github.com/simran12-coder/NearEarthAsteroidApp/assets/66485679/ab400bbf-cf9a-46b7-b831-646f9103ddbd.png" >
 
+
 ## Author
 Simran Kaur: @simrankaurg555@gmail.com
 
