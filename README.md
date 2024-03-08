@@ -7,7 +7,7 @@
 2. Alamofire
 3. SwiftyJSON
 
-<img src="https://github.com/simran12-coder/NearEarthAsteroidApp/assets/66485679/491aed85-4e34-448f-886e-cc53ac52471d.png" width="500" height="1000" >
+<img src="https://github.com/simran12-coder/NearEarthAsteroidApp/assets/66485679/491aed85-4e34-448f-886e-cc53ac52471d.png" width="400" height="900" >
 
 ## Author
 Simran Kaur: @simrankaurg555@gmail.com
